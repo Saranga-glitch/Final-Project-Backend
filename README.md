@@ -1,3 +1,3 @@
 # Mern-Ecommerce
 
-Created by Using Node js Mongo DB as the database. 
+Created by Using Node js with Rest API and Mongo DB 
